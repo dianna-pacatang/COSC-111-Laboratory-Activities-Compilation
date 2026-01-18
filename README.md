@@ -51,8 +51,8 @@ Each activity and examination is organized in its **own folder**, containing the
 
 ---
 
-### 📝 Midterm Laboratory Exam – Remote Control Implementation
-**Concepts:** Hardware-to-software communication  
+### 📝 Midterm Laboratory Exam – Light Intensity Monitoring System 🌤️
+**Concepts:** Analog sensor reading, threshold-based logic, Serial command control  
 📁 [Lab_Exam-Midterms_BSCS4B](Lab_Exam-Midterms_BSCS4B)
 
 ---
