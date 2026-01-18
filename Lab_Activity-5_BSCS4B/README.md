@@ -64,3 +64,20 @@ The Python script runs continuously and presents a menu that allows the user to 
 
 ### Python
 1. Install required library:
+2. Run the Python script.
+3. Use the menu options to control the LEDs.
+
+---
+
+## 📘 Learning Outcome
+This activity enables students to:
+- Integrate Python with Arduino through Serial communication
+- Design interactive control systems for hardware
+- Apply modular programming practices in embedded systems
+
+---
+
+## 👤 Author
+Dianna Jane Elizabeth  
+Arduino Laboratory Exercises 🚀
+
