@@ -69,6 +69,6 @@ Through this activity, students gain an understanding of:
 ---
 
 ## 👤 Author
-John Rich  
+Dianna Jane Elizabeth  
 Arduino Laboratory Exercises 🚀
 
